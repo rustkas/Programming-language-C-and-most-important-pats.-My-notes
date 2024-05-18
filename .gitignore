@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/code/ch02/main_type03/.settings
+/code/ch02/main_type02/.settings
+/code/ch02/main_type01/.settings
+/code/ch02/ex01/.settings
