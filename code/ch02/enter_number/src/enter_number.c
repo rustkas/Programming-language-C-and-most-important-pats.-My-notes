@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : enter_russian_symbols.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
